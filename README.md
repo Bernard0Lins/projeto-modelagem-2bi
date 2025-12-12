@@ -61,7 +61,7 @@ O dataset utilizado é o **Medical Cost Personal Datasets**, disponibilizado ori
     ```
 2.  Entre na pasta do projeto:
     ```bash
-    cd modelagem-estatistica-insurance
+    cd projeto-modelagem-2bi
     ```
 3.  Instale as dependências listadas no `requirements.txt`:
     ```bash
